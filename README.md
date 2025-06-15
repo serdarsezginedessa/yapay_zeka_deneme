@@ -23,7 +23,7 @@ Bu proje, kullanıcıların yazdığı metinlerin **spam** (istenmeyen içerik) 
 
 ## 🚀 Uygulama Linki
 
-👉 [Canlı Uygulama İçin Tıkla](https://your-app-name.onrender.com)
+👉 [Canlı Uygulama İçin Tıkla](https://yapay-zeka-deneme.onrender.com/)
 
 ---
 
