@@ -32,7 +32,7 @@ Bu proje, kullanıcıların yazdığı metinlerin **spam** (istenmeyen içerik) 
 Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ```bash
-git clone https://github.com/kullaniciadi/yapayzeka-deneme.git
+git clone https://github.com/serdarsezginedessa/yapayzeka-deneme.git
 cd yapayzeka-flask
 pip install -r requirements.txt
 python app.py
