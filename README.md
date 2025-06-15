@@ -84,7 +84,7 @@ yapayzeka-flask/
 ## 👨‍💻 Geliştirici
 
 **Serdar Sezgin**
-📧 serdar.sezgin52@gmail.com.com
+📧 serdar.sezgin52@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/serdar-sezgin-5559a855/)
 📂 [GitHub](https://github.com/serdarsezginedessa)
 
