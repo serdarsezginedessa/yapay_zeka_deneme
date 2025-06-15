@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Spam Kontrolü</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; }
+        input, textarea { width: 300px; padding: 10px; margin: 10px 0; }
+        button { padding: 10px 20px; }
+    </style>
+</head>
+<body>
+    <h1>Spam Mesaj Kontrolü</h1>
+    <form method="POST">
+        <textarea name="metin" rows="5" placeholder="Mesajınızı yazın..."></textarea><br>
+        <button type="submit">Kontrol Et</button>
+    </form>
+
+    {% if tahmin %}
+        <h3>Sonuç: {{ tahmin }}</h3>
+    {% endif %}
+</body>
+</html>
